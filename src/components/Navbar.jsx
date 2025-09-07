@@ -19,8 +19,8 @@ export default function Navbar() {
             <img
               src={logo}
               alt="Manmitra"
-              className="w-10 h-10 sm:w-12 sm:h-12 rounded-full border-2 border-white"
-              style={{ boxShadow: "0 0 12px rgba(153,172,135,0.25)" }}
+              className="w-16 h-16 sm:w-12 sm:h-12 rounded-full border-3 border-white"
+              style={{ boxShadow: "0 0 12px rgb(255, 255, 255)" }}
             />
             <span className="font-semibold text-[#33513f] text-lg sm:text-2xl">
               Manmitra

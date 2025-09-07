@@ -946,6 +946,10 @@ video {
   width: 24rem;
 }
 
+.w-16 {
+  width: 4rem;
+}
+
 .max-w-2xl {
   max-width: 42rem;
 }
@@ -1980,8 +1984,16 @@ body {
     height: 340px;
   }
 
+  .sm\:h-20 {
+    height: 5rem;
+  }
+
   .sm\:w-12 {
     width: 3rem;
+  }
+
+  .sm\:w-20 {
+    width: 5rem;
   }
 
   .sm\:grid-cols-2 {
